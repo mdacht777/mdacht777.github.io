@@ -1,11 +1,11 @@
 # Site settings
-author: Martin Achtermann
-title: 
+author: Martin A.
+title: Martin A.'s journeys through learning
 header-img: img/home-bg.png
 email: mdacht777@gmail.com
-copyright_name: Martin Achtermann
+copyright_name: Martin A.
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Martin A.'s journeys through learning
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mdacht777

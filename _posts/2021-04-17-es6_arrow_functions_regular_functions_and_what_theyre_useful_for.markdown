@@ -11,7 +11,7 @@ Starting in 2015 with the ECMA ES6 Standard (Google it), Javascript added a new 
 
 ```
 
-<table style="width: 900">
+<table style="width:100%">
   <tr>
 	<td>&nbsp;</td>
 	<td>Regular functions</td>
@@ -182,7 +182,8 @@ There are situations when it makes more sense to use regular functions and other
 <li>if you want your function to be self-referencing for purposes of recursion
 <li>if you want your code to be easier to debug - since arrow functions are anonymous, you will not be able to trace the name of the function or the exact line number where an error occurs.
 <br>
-<br>**Arrow functions are meant for short pieces of code that do not have their own “context”, but rather work in the current one**.  You would want to use arrow functions when 
+<br>**Arrow functions are meant for short pieces of code that do not have their own “context”, but rather work in the current one.**
+You would want to use arrow functions when 
 <li>you just need a single-use function, for example defining a function in a callback, like setTimeout()
 <li>using them with methods such as map and filter where functions don't need to be named
 <li>a situation where you would need "this" to be consistent and predictable.

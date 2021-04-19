@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: none
 title:      "table"
 date:       2021-04-18 00:58:24 +0000
 permalink:  table
 ---
-<table style="width:100%">
+<table style="width:500px; margin:auto">
   <tr>
 	<td>&nbsp;</td>
 	<td>Regular functions</td>

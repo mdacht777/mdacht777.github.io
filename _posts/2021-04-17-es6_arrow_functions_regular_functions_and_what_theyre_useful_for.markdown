@@ -11,6 +11,7 @@ Starting in 2015 with the ECMA ES6 Standard (Google it), Javascript added a new 
 
 ```
 
+<div style="width:100px">
 <table style="width:100%">
   <tr>
 	<td>&nbsp;</td>
@@ -168,7 +169,7 @@ const blueObj = new Obj('blue'); // =&gt; "TypeError: Obj is not a constructor".
 </td>
   </tr>
 </table>
-
+</div>
 ```
 
 ```

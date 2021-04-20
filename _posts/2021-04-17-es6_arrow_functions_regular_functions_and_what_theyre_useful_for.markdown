@@ -6,7 +6,7 @@ permalink:  es6_arrow_functions_regular_functions_and_what_theyre_useful_for
 ---
 <style>
 body {
-   margin:10px;
+   margin:25px;
 }
 </style>
 

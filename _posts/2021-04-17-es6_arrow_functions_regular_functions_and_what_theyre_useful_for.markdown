@@ -84,7 +84,10 @@ If the arrow function contains one expression, and you omit the function’s cur
 </td>
 </tr>
 <tr>
-	<td>"this" value (aka the execution context).  **Why is this important?** Every execution context provides "this" keyword, which points to an object to which the current code that’s being executed belongs.  "this" is a way for a function to address the variables and functions it has access to.
+	<td>"this" value (aka the execution context).  
+
+**Why is this important?**
+		Every execution context provides "this" keyword, which points to an object to which the current code that’s being executed belongs.  "this" is a way for a function to address the variables and functions it has access to.
 	</td>
 	<td>
 	  Dynamic based on invocation:
@@ -186,7 +189,7 @@ There are situations when it makes more sense to use regular functions and other
 <li>if you want access to the "arguments" keyword
 <li>if you want your function to be self-referencing for purposes of recursion
 <li>if you want your code to be easier to debug - since arrow functions are anonymous, you will not be able to trace the name of the function or the exact line number where an error occurs.
-<br>
+	
 <br>**Arrow functions are meant for short pieces of code that do not have their own “context”, but rather work in the current one.**
 You would want to use arrow functions when 
 <li>you just need a single-use function, for example defining a function in a callback, like setTimeout()

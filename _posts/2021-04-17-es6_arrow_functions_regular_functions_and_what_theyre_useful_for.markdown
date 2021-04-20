@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: none
 title:      "ES6, Arrow functions, Regular functions, and what they're useful for."
 date:       2021-04-18 00:58:24 +0000
 permalink:  es6_arrow_functions_regular_functions_and_what_theyre_useful_for

@@ -4,6 +4,11 @@ title:      "ES6, Arrow functions, Regular functions, and what they're useful fo
 date:       2021-04-18 00:58:24 +0000
 permalink:  es6_arrow_functions_regular_functions_and_what_theyre_useful_for
 ---
+<style>
+body {
+   margin:10px;
+}
+</style>
 
 Starting in 2015 with the ECMA ES6 Standard (Google it), Javascript added a new way to declare functions.  "Arrow functions" (or "Fat arrow functions") were introduced.  This new syntax for declaring functions produced a few differences in how functions work.  In addition to being "syntactically more compact", they have some other significant contrasts to the pre-ES6 "regular functions". You can see the fine details in the MDN documentation but I have taken a few of what I consider as the key differences and tabulated them below.  There are a TON of resources and blog posts also available and while some of what I show below is based on what I was able to learn from them, I thought it would be helpful to present the information in a table for side-by-side comparison.  I hope you find this helpful.  Researching this gave me a greater understanding of the differences and, when choosing between regular functions and arrow functions, which is the best choice for the situation. 
 
